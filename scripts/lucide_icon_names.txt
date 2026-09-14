@@ -23,6 +23,7 @@ circleX
 clock
 cloud
 cloudUpload
+coins
 copy
 cpu
 creditCard

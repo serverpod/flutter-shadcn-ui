@@ -128,6 +128,11 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData coins = IconData(
+    0xe09b,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData copy = IconData(
     0xe0a2,
     fontFamily: 'Lucide',
