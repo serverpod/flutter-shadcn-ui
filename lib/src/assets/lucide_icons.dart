@@ -198,6 +198,11 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData gauge = IconData(
+    0xe1bf,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData gift = IconData(
     0xe0e5,
     fontFamily: 'Lucide',
@@ -205,6 +210,11 @@ abstract final class LucideIcons {
   );
   static const IconData gitBranch = IconData(
     0xe0e6,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData gitMerge = IconData(
+    0xe0e8,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
@@ -225,6 +235,16 @@ abstract final class LucideIcons {
   );
   static const IconData hardDrive = IconData(
     0xe0f1,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData heartPulse = IconData(
+    0xe372,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData history = IconData(
+    0xe1f5,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
@@ -260,6 +280,11 @@ abstract final class LucideIcons {
   );
   static const IconData lock = IconData(
     0xe10f,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData lockKeyhole = IconData(
+    0xe536,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
@@ -338,6 +363,11 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData play = IconData(
+    0xe140,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData plug = IconData(
     0xe383,
     fontFamily: 'Lucide',
@@ -353,6 +383,11 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData radio = IconData(
+    0xe146,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData refreshCw = IconData(
     0xe149,
     fontFamily: 'Lucide',
@@ -360,6 +395,11 @@ abstract final class LucideIcons {
   );
   static const IconData rocket = IconData(
     0xe286,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData rotateCw = IconData(
+    0xe14d,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
@@ -393,6 +433,16 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData skipBack = IconData(
+    0xe163,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData skipForward = IconData(
+    0xe164,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData slidersHorizontal = IconData(
     0xe29a,
     fontFamily: 'Lucide',
@@ -415,6 +465,11 @@ abstract final class LucideIcons {
   );
   static const IconData terminal = IconData(
     0xe185,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData timer = IconData(
+    0xe1e0,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
