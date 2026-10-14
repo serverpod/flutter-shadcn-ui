@@ -12,8 +12,8 @@ check
 chevronDown
 chevronLeft
 chevronRight
-chevronsUpDown
 chevronUp
+chevronsUpDown
 circleAlert
 circleCheck
 circleDot
@@ -57,8 +57,10 @@ lock
 lockKeyhole
 logOut
 mail
+maximize2
 memoryStick
 messageSquare
+minimize2
 minus
 monitor
 moon

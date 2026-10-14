@@ -298,6 +298,11 @@ abstract final class LucideIcons {
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
+  static const IconData maximize2 = IconData(
+    0xe117,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
   static const IconData memoryStick = IconData(
     0xe44a,
     fontFamily: 'Lucide',
@@ -305,6 +310,11 @@ abstract final class LucideIcons {
   );
   static const IconData messageSquare = IconData(
     0xe11b,
+    fontFamily: 'Lucide',
+    fontPackage: 'shadcn_ui',
+  );
+  static const IconData minimize2 = IconData(
+    0xe11f,
     fontFamily: 'Lucide',
     fontPackage: 'shadcn_ui',
   );
